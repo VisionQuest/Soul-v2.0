@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Soul</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_academics">Academics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cat_prompt">Category</string>
+    <string name="subcat_prompt">Sub Category</string>
+    <string name="aut_prompt">Author</string>
+
+    <string-array name="Member_names">
+        <item>HHS</item>
+        <item>Shyam</item>
+        <item>Subash</item>
+        <item>Vaibhav</item>
+        <item>Datch</item>
+        <item>Thamarai</item>
+    </string-array>
+
+    <array name="profile_pics">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+    </array>
+
+    <string-array name="statues">
+        <item>Blogging</item>
+        <item>Available</item>
+        <item>Busy</item>
+        <item>In a meeting</item>
+        <item>At work</item>
+        <item>At gym</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>9.00</item>
+        <item>11.23</item>
+        <item>1.40</item>
+        <item>3.45</item>
+        <item>4.15</item>
+        <item>12.35</item>
+    </string-array>
+
+    <string-array name="Category">
+        <item>Select Category</item>
+        <item>Academics</item>
+        <item>Administration</item>
+        <item>Extra-Curricular Activities</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="SubCategory">
+    <item>Select Sub-Category</item>
+    </string-array>
+</resources>

@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\administration_main.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\administration_main.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/welcome_slide4.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/welcome_slide4.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\space_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/residemenu_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/layout/residemenu_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.specyci\\residemenu\\1.6\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.specyci\\residemenu\\1.6\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/welcome_slide3.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/welcome_slide3.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/space_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/space_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/list_item2.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/list_item2.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/indi_share.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/indi_share.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/image.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/image.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reside.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\activity_reside.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\audio.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/administration_main.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/administration_main.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/audio.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/audio.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/home.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\academic_main.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\academic_main.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item2.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\list_item2.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeline.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\timeline.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/welcome_slide1.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/welcome_slide1.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/otheractivities_main.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/otheractivities_main.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\out_share.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\out_share.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/tab_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/tab_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tapbarmenu.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\tapbarmenu.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notifications.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\notifications.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_item_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\layout\\space_item_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/video.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/video.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/noti_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/noti_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/tapbarmenu.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/tapbarmenu.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\grid_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\files.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\files.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\otheractivities_main.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\otheractivities_main.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/menu_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/menu_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imgview.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\imgview.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\text.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/grid_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/grid_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/files.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/files.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\txtdisp.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\txtdisp.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/txtdisp.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/txtdisp.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/space_item_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/res/layout/space_item_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/residemenu.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.specyci/residemenu/1.6/res/layout/residemenu.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/reports.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/reports.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/imgview.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/imgview.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/out_share.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/out_share.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/timeline.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/timeline.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indi_share.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\indi_share.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/academic_main.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/academic_main.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/text.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/text.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/notifications.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/notifications.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noti_view.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\noti_view.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/welcome_slide2.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/welcome_slide2.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\layout\\image.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/layout/activity_reside.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/layout/activity_reside.xml"
+    }
+]

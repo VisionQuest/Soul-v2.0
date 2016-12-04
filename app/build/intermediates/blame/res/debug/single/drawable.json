@@ -1,0 +1,718 @@
+[
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_stop.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_stop.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/white_ripple.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/res/drawable/white_ripple.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close_animated.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close_animated.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/admin.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/admin.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\academics.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\soul_logo.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\soul_logo.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/files.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/files.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_shape_shadow.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\menu_shape_shadow.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_stop_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_stop_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\timeline.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/excur.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/excur.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_to_play.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_to_play.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_arrow_to_drawer.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_arrow_to_drawer.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_play_to_stop.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_play_to_stop.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_drawer_to_arrow.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_drawer_to_arrow.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\reports.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_play_to_pause.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_play_to_pause.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/soul_logo.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/soul_logo.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/camera.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/menu_background.jpg",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/menu_background.jpg"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/drawable/icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/icon_close_animated.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/drawable/icon_close_animated.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\admin1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/connected.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/connected.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extras.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\extras.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/reports.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/reports.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wrench.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\wrench.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_close.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/logout.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/academics1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/academics1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/gallery.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/gallery.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/settings.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/settings.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/others.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/others.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\splash.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/menu_shape_shadow.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/menu_shape_shadow.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_action_wrench.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/ic_action_wrench.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reports1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\reports1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_play_to_pause.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_play_to_pause.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_background.jpg",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/reports1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/reports1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_to_drawer.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_to_drawer.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_arrow_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_arrow_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timeline1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\timeline1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\near_me.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\near_me.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/login_screen.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/login_screen.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_action_logout.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/ic_action_logout.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_drawer_to_arrow.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_drawer_to_arrow.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/firebase.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/firebase.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/near_me.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.armcha/SpaceNavigationView/1.4.1/res/drawable/near_me.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_pause_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_pause_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_arrow_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_arrow_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_play_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_play_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/shar.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/shar.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/misc.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/misc.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/timeline.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/timeline.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\admin.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\others.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\others.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_animated.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.michaldrabik\\tapbarmenu\\1.0.5\\res\\drawable\\icon_animated.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_ripple.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.github.armcha\\SpaceNavigationView\\1.4.1\\res\\drawable\\white_ripple.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\files.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\files.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/wrench.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/wrench.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_stop_to_play.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_stop_to_play.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\excur.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\excur.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/timeline1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/timeline1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_drawer_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_drawer_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/splash.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/splash.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/academics.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/academics.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_pause_vector.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.wnafee\\vector-compat\\1.0.5\\res\\drawable\\ic_pause_vector.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/icon_animated.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/drawable/icon_animated.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/extras.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/extras.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\academics1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\academics1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_stop_to_play.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_stop_to_play.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/admin1.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/admin1.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\misc.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\misc.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/ic_pause_to_play.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.wnafee/vector-compat/1.0.5/res/drawable/ic_pause_to_play.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/help.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/src/main/res/drawable/help.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/res/merged/debug/drawable/icon_close.xml",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/app/build/intermediates/exploded-aar/com.github.michaldrabik/tapbarmenu/1.0.5/res/drawable/icon_close.xml"
+    },
+    {
+        "merged": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_screen.png",
+        "source": "/home/hhs/AndroidStudioProjects/Soul rendering/C:\\Users\\SUBASH.M\\Desktop\\backup\\Soul rendering\\app\\src\\main\\res\\drawable\\login_screen.png"
+    }
+]

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@android:drawable/ic_menu_today"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/nav_attendance"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Attendance" />
+        <item
+            android:id="@+id/nav_textbooks"
+            android:icon="@drawable/ic_action_books"
+            android:title="Text Books" />
+        <item
+            android:id="@+id/nav_testschedule"
+            android:icon="@drawable/ic_action_esch"
+            android:title="Test Schedule" />
+        <item
+            android:id="@+id/nav_testmarks"
+            android:icon="@drawable/ic_action_marks"
+            android:title="Test Marks" />
+        <item
+            android:id="@+id/nav_questionpapers"
+            android:icon="@drawable/ic_action_ques"
+            android:title="Question Papers" />
+        <item
+            android:id="@+id/nav_resources"
+            android:icon="@drawable/ic_action_resources"
+            android:title="Resources" />
+        <item
+            android:id="@+id/nav_examschedule"
+            android:icon="@drawable/ic_action_esch"
+            android:title="Exam Schedule" />
+        <item
+            android:id="@+id/nav_exammarks"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Exam Marks" />
+        <item
+            android:id="@+id/nav_assignments"
+            android:icon="@drawable/ic_action_notes"
+            android:title="Assignments" />
+        <item
+            android:id="@+id/nav_homework"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Home Work" />
+        <item
+            android:id="@+id/nav_record"
+            android:icon="@drawable/ic_action_rec"
+            android:title="Record" />
+        <item
+            android:id="@+id/nav_observation"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Observation" />
+        <item
+            android:id="@+id/nav_projects"
+            android:icon="@drawable/ic_action_proj"
+            android:title="Projects" />
+        <item
+            android:id="@+id/nav_lateattendance"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="Late Attendance" />
+    </group>
+</menu>

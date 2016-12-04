@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914270562111",
+    "firebase_url": "https://soul-for-schools.firebaseio.com",
+    "project_id": "soul-for-schools",
+    "storage_bucket": "soul-for-schools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914270562111:android:4523da29dac4a8ac",
+        "android_client_info": {
+          "package_name": "bluepanther.jiljungjuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914270562111-absho36bc5g9tefn27as832q519u4equ.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKE-GXWWqE_tIFqyuRRu4B9NYA7NngwQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

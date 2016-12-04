@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">914270562111-absho36bc5g9tefn27as832q519u4equ.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://soul-for-schools.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">914270562111</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKE-GXWWqE_tIFqyuRRu4B9NYA7NngwQA</string>
+    <string name="google_app_id" translatable="false">1:914270562111:android:4523da29dac4a8ac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKE-GXWWqE_tIFqyuRRu4B9NYA7NngwQA</string>
+    <string name="google_storage_bucket" translatable="false">soul-for-schools.appspot.com</string>
+</resources>
